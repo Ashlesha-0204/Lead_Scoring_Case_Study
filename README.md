@@ -18,3 +18,4 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 -  Exploratory Data Analysis
 -  Model Building
 -  Model Evaluation
+-  Model Summary
